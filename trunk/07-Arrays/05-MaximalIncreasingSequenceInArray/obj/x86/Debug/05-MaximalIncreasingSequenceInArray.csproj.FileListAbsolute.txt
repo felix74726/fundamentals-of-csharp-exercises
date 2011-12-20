@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\05-MaximalIncreasingSequenceInArray\bin\Debug\05-MaximalIncreasingSequenceInArray.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\05-MaximalIncreasingSequenceInArray\bin\Debug\05-MaximalIncreasingSequenceInArray.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\05-MaximalIncreasingSequenceInArray\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\05-MaximalIncreasingSequenceInArray\obj\x86\Debug\05-MaximalIncreasingSequenceInArray.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\05-MaximalIncreasingSequenceInArray\obj\x86\Debug\05-MaximalIncreasingSequenceInArray.pdb
