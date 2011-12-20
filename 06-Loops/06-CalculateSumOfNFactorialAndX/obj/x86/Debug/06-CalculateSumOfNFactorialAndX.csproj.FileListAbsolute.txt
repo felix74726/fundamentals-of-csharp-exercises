@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\06-CalculateSumOfNFactorialAndX\bin\Debug\06-CalculateSumOfNFactorialAndX.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\06-CalculateSumOfNFactorialAndX\bin\Debug\06-CalculateSumOfNFactorialAndX.pdb
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\06-CalculateSumOfNFactorialAndX\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\06-CalculateSumOfNFactorialAndX\obj\x86\Debug\06-CalculateSumOfNFactorialAndX.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\06-CalculateSumOfNFactorialAndX\obj\x86\Debug\06-CalculateSumOfNFactorialAndX.pdb

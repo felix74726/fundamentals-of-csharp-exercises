@@ -3,3 +3,5 @@ D:\Telerik\Funfamentals Of C# Programing\домашни\07-Arrays\Arrays\01-Inte
 D:\Telerik\Funfamentals Of C# Programing\домашни\07-Arrays\Arrays\01-IntegerArrayAllocateAndInitialize\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\Telerik\Funfamentals Of C# Programing\домашни\07-Arrays\Arrays\01-IntegerArrayAllocateAndInitialize\obj\x86\Debug\01-IntegerArrayAllocateAndInitialize.exe
 D:\Telerik\Funfamentals Of C# Programing\домашни\07-Arrays\Arrays\01-IntegerArrayAllocateAndInitialize\obj\x86\Debug\01-IntegerArrayAllocateAndInitialize.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\01-IntegerArrayAllocateAndInitialize\obj\x86\Debug\01-IntegerArrayAllocateAndInitialize.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\01-IntegerArrayAllocateAndInitialize\obj\x86\Debug\01-IntegerArrayAllocateAndInitialize.pdb

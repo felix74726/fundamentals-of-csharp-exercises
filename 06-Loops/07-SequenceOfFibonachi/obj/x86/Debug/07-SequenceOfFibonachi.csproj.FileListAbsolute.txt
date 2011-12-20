@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\07-SequenceOfFibonachi\bin\Debug\07-SequenceOfFibonachi.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\07-SequenceOfFibonachi\bin\Debug\07-SequenceOfFibonachi.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\07-SequenceOfFibonachi\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\07-SequenceOfFibonachi\obj\x86\Debug\07-SequenceOfFibonachi.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\07-SequenceOfFibonachi\obj\x86\Debug\07-SequenceOfFibonachi.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConsoleInputOutput\04-FindNummbersThatRemindOfFive\bin\Debug\04-FindNummbersThatRemindOfFive.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConsoleInputOutput\04-FindNummbersThatRemindOfFive\bin\Debug\04-FindNummbersThatRemindOfFive.pdb
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConsoleInputOutput\04-FindNummbersThatRemindOfFive\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConsoleInputOutput\04-FindNummbersThatRemindOfFive\obj\x86\Debug\04-FindNummbersThatRemindOfFive.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConsoleInputOutput\04-FindNummbersThatRemindOfFive\obj\x86\Debug\04-FindNummbersThatRemindOfFive.pdb

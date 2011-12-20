@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConsoleInputOutput\02-CalculateCircleAreaAndPreimeter\bin\Debug\02-CalculateCircleAreaAndPreimeter.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConsoleInputOutput\02-CalculateCircleAreaAndPreimeter\bin\Debug\02-CalculateCircleAreaAndPreimeter.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConsoleInputOutput\02-CalculateCircleAreaAndPreimeter\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConsoleInputOutput\02-CalculateCircleAreaAndPreimeter\obj\x86\Debug\02-CalculateCircleAreaAndPreimeter.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConsoleInputOutput\02-CalculateCircleAreaAndPreimeter\obj\x86\Debug\02-CalculateCircleAreaAndPreimeter.pdb

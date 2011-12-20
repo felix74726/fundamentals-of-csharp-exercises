@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\12-PrintMatrix\bin\Debug\12-PrintMatrix.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\12-PrintMatrix\bin\Debug\12-PrintMatrix.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\12-PrintMatrix\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\12-PrintMatrix\obj\x86\Debug\12-PrintMatrix.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\12-PrintMatrix\obj\x86\Debug\12-PrintMatrix.pdb

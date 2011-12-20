@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConsoleInputOutput\08-PrintNumbersFrom1ToN\bin\Debug\08-PrintNumbersFrom1ToN.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConsoleInputOutput\08-PrintNumbersFrom1ToN\bin\Debug\08-PrintNumbersFrom1ToN.pdb
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConsoleInputOutput\08-PrintNumbersFrom1ToN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConsoleInputOutput\08-PrintNumbersFrom1ToN\obj\x86\Debug\08-PrintNumbersFrom1ToN.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConsoleInputOutput\08-PrintNumbersFrom1ToN\obj\x86\Debug\08-PrintNumbersFrom1ToN.pdb

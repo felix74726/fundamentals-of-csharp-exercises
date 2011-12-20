@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\10-BonusScores\bin\Debug\10-BonusScores.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\10-BonusScores\bin\Debug\10-BonusScores.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\10-BonusScores\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\10-BonusScores\obj\x86\Debug\10-BonusScores.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\10-BonusScores\obj\x86\Debug\10-BonusScores.pdb

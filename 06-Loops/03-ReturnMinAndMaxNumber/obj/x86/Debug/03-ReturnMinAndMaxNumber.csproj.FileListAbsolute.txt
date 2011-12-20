@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\03-ReturnMinAndMaxNumber\bin\Debug\03-ReturnMinAndMaxNumber.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\03-ReturnMinAndMaxNumber\bin\Debug\03-ReturnMinAndMaxNumber.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\03-ReturnMinAndMaxNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\03-ReturnMinAndMaxNumber\obj\x86\Debug\03-ReturnMinAndMaxNumber.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\03-ReturnMinAndMaxNumber\obj\x86\Debug\03-ReturnMinAndMaxNumber.pdb

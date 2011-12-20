@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConsoleInputOutput\01-PrintSumOfThreeIntegers\bin\Debug\01-PrintSumOfThreeIntegers.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConsoleInputOutput\01-PrintSumOfThreeIntegers\bin\Debug\01-PrintSumOfThreeIntegers.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConsoleInputOutput\01-PrintSumOfThreeIntegers\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConsoleInputOutput\01-PrintSumOfThreeIntegers\obj\x86\Debug\01-PrintSumOfThreeIntegers.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConsoleInputOutput\01-PrintSumOfThreeIntegers\obj\x86\Debug\01-PrintSumOfThreeIntegers.pdb

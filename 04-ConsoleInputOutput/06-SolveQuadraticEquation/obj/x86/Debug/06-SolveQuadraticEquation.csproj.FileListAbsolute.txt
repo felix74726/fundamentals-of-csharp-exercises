@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConsoleInputOutput\06-SolveQuadraticEquation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConsoleInputOutput\06-SolveQuadraticEquation\bin\Debug\06-SolveQuadraticEquation.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConsoleInputOutput\06-SolveQuadraticEquation\bin\Debug\06-SolveQuadraticEquation.pdb
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConsoleInputOutput\06-SolveQuadraticEquation\obj\x86\Debug\06-SolveQuadraticEquation.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConsoleInputOutput\06-SolveQuadraticEquation\obj\x86\Debug\06-SolveQuadraticEquation.pdb

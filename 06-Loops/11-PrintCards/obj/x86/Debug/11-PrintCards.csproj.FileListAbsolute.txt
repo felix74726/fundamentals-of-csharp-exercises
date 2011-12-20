@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\11-PrintCards\bin\Debug\11-PrintCards.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\11-PrintCards\bin\Debug\11-PrintCards.pdb
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\11-PrintCards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\11-PrintCards\obj\x86\Debug\11-PrintCards.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\11-PrintCards\obj\x86\Debug\11-PrintCards.pdb

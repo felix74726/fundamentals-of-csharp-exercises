@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\05-CalculateNKFactorial\bin\Debug\05-CalculateNKFactorial.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\05-CalculateNKFactorial\bin\Debug\05-CalculateNKFactorial.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\05-CalculateNKFactorial\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\05-CalculateNKFactorial\obj\x86\Debug\05-CalculateNKFactorial.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\05-CalculateNKFactorial\obj\x86\Debug\05-CalculateNKFactorial.pdb

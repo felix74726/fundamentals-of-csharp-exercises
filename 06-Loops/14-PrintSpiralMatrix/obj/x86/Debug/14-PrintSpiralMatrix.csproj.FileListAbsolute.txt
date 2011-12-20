@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\14-PrintSpiralMatrix\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\14-PrintSpiralMatrix\bin\Debug\14-PrintSpiralMatrix.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\14-PrintSpiralMatrix\bin\Debug\14-PrintSpiralMatrix.pdb
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\14-PrintSpiralMatrix\obj\x86\Debug\14-PrintSpiralMatrix.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\14-PrintSpiralMatrix\obj\x86\Debug\14-PrintSpiralMatrix.pdb

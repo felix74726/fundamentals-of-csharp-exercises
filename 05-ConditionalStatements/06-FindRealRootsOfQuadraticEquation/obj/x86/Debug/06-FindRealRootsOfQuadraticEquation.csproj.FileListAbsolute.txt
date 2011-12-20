@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConditionalStatements\06-FindRealRootsOfQuadraticEquation\bin\Debug\06-FindRealRootsOfQuadraticEquation.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConditionalStatements\06-FindRealRootsOfQuadraticEquation\bin\Debug\06-FindRealRootsOfQuadraticEquation.pdb
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConditionalStatements\06-FindRealRootsOfQuadraticEquation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConditionalStatements\06-FindRealRootsOfQuadraticEquation\obj\x86\Debug\06-FindRealRootsOfQuadraticEquation.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConditionalStatements\06-FindRealRootsOfQuadraticEquation\obj\x86\Debug\06-FindRealRootsOfQuadraticEquation.pdb
