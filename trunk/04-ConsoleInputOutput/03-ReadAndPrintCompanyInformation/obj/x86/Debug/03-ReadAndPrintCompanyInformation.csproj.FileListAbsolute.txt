@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConsoleInputOutput\03-ReadAndPrintCompanyInformation\bin\Debug\03-ReadAndPrintCompanyInformation.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConsoleInputOutput\03-ReadAndPrintCompanyInformation\bin\Debug\03-ReadAndPrintCompanyInformation.pdb
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConsoleInputOutput\03-ReadAndPrintCompanyInformation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConsoleInputOutput\03-ReadAndPrintCompanyInformation\obj\x86\Debug\03-ReadAndPrintCompanyInformation.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConsoleInputOutput\03-ReadAndPrintCompanyInformation\obj\x86\Debug\03-ReadAndPrintCompanyInformation.pdb

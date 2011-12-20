@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\04-CalculateNDivideKFactorial\bin\Debug\04-CalculateNDivideKFactorial.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\04-CalculateNDivideKFactorial\bin\Debug\04-CalculateNDivideKFactorial.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\04-CalculateNDivideKFactorial\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\04-CalculateNDivideKFactorial\obj\x86\Debug\04-CalculateNDivideKFactorial.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\04-CalculateNDivideKFactorial\obj\x86\Debug\04-CalculateNDivideKFactorial.pdb

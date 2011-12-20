@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\05-ShowTheNameOfDigit\bin\Debug\05-ShowTheNameOfDigit.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\05-ShowTheNameOfDigit\bin\Debug\05-ShowTheNameOfDigit.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\05-ShowTheNameOfDigit\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\05-ShowTheNameOfDigit\obj\x86\Debug\05-ShowTheNameOfDigit.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\05-ShowTheNameOfDigit\obj\x86\Debug\05-ShowTheNameOfDigit.pdb

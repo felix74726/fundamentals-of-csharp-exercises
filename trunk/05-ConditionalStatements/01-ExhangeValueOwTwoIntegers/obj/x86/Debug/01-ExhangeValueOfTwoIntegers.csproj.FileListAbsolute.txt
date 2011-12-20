@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\01-ExhangeValueOwTwoIntegers\bin\Debug\01-ExhangeValueOwTwoIntegers.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\01-ExhangeValueOwTwoIntegers\bin\Debug\01-ExhangeValueOwTwoIntegers.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\01-ExhangeValueOwTwoIntegers\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\01-ExhangeValueOwTwoIntegers\obj\x86\Debug\01-ExhangeValueOwTwoIntegers.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\01-ExhangeValueOwTwoIntegers\obj\x86\Debug\01-ExhangeValueOwTwoIntegers.pdb

@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\01-PrintNumbersToN\bin\Debug\01-PrintNumbersToN.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\01-PrintNumbersToN\bin\Debug\01-PrintNumbersToN.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\01-PrintNumbersToN\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\01-PrintNumbersToN\obj\x86\Debug\01-PrintNumbersToN.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\01-PrintNumbersToN\obj\x86\Debug\01-PrintNumbersToN.pdb

@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\07-FindGreatestVariable\bin\Debug\07-FindGreatestVariable.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\07-FindGreatestVariable\bin\Debug\07-FindGreatestVariable.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\07-FindGreatestVariable\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\07-FindGreatestVariable\obj\x86\Debug\07-FindGreatestVariable.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\07-FindGreatestVariable\obj\x86\Debug\07-FindGreatestVariable.pdb

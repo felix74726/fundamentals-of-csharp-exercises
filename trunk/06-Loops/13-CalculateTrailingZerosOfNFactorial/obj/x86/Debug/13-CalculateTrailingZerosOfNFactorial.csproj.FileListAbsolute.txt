@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\13-CalculateTrailingZerosOfNFactorial\bin\Debug\13-CalculateTrailingZerosOfNFactorial.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\13-CalculateTrailingZerosOfNFactorial\bin\Debug\13-CalculateTrailingZerosOfNFactorial.pdb
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\13-CalculateTrailingZerosOfNFactorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\13-CalculateTrailingZerosOfNFactorial\obj\x86\Debug\13-CalculateTrailingZerosOfNFactorial.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\13-CalculateTrailingZerosOfNFactorial\obj\x86\Debug\13-CalculateTrailingZerosOfNFactorial.pdb

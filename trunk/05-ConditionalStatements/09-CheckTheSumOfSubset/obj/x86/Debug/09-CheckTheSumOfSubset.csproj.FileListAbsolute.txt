@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\09-CheckTheSumOfSubset\bin\Debug\09-CheckTheSumOfSubset.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\09-CheckTheSumOfSubset\bin\Debug\09-CheckTheSumOfSubset.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\09-CheckTheSumOfSubset\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\09-CheckTheSumOfSubset\obj\x86\Debug\09-CheckTheSumOfSubset.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\09-CheckTheSumOfSubset\obj\x86\Debug\09-CheckTheSumOfSubset.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\08-CalculateTheGreateCommonDevisor\bin\Debug\08-CalculateTheGreateCommonDevisor.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\08-CalculateTheGreateCommonDevisor\bin\Debug\08-CalculateTheGreateCommonDevisor.pdb
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\08-CalculateTheGreateCommonDevisor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\08-CalculateTheGreateCommonDevisor\obj\x86\Debug\08-CalculateTheGreateCommonDevisor.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Loops\08-CalculateTheGreateCommonDevisor\obj\x86\Debug\08-CalculateTheGreateCommonDevisor.pdb

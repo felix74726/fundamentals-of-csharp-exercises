@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\02-ShowTheSignOfTheProduct\bin\Debug\02-ShowTheSignOfTheProduct.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\02-ShowTheSignOfTheProduct\bin\Debug\02-ShowTheSignOfTheProduct.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\02-ShowTheSignOfTheProduct\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\02-ShowTheSignOfTheProduct\obj\x86\Debug\02-ShowTheSignOfTheProduct.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\ConditionalStatements\02-ShowTheSignOfTheProduct\obj\x86\Debug\02-ShowTheSignOfTheProduct.pdb

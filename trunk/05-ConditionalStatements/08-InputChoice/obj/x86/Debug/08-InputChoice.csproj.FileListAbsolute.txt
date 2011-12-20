@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConditionalStatements\08-InputChoice\bin\Debug\08-InputChoice.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConditionalStatements\08-InputChoice\bin\Debug\08-InputChoice.pdb
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConditionalStatements\08-InputChoice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConditionalStatements\08-InputChoice\obj\x86\Debug\08-InputChoice.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\ConditionalStatements\08-InputChoice\obj\x86\Debug\08-InputChoice.pdb

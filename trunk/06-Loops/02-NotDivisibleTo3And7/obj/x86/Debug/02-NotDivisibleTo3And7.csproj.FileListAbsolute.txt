@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\02-NotDivisibleTo3And7\bin\Debug\02-NotDivisibleTo3And7.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\02-NotDivisibleTo3And7\bin\Debug\02-NotDivisibleTo3And7.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\02-NotDivisibleTo3And7\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\02-NotDivisibleTo3And7\obj\x86\Debug\02-NotDivisibleTo3And7.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\Loops\02-NotDivisibleTo3And7\obj\x86\Debug\02-NotDivisibleTo3And7.pdb
