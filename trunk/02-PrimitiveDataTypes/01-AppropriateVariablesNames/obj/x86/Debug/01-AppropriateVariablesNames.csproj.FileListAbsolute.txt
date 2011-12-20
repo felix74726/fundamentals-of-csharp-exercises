@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\01-AppropriateVariablesNames\bin\Debug\01-AppropriateVariablesNames.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\01-AppropriateVariablesNames\bin\Debug\01-AppropriateVariablesNames.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\01-AppropriateVariablesNames\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\01-AppropriateVariablesNames\obj\x86\Debug\01-AppropriateVariablesNames.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\01-AppropriateVariablesNames\obj\x86\Debug\01-AppropriateVariablesNames.pdb

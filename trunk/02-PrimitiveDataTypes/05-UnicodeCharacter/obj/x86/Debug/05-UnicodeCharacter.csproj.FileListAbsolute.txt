@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\05-UnicodeCharacter\bin\Debug\05-UnicodeCharacter.exe
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\05-UnicodeCharacter\bin\Debug\05-UnicodeCharacter.pdb
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\05-UnicodeCharacter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\05-UnicodeCharacter\obj\x86\Debug\05-UnicodeCharacter.exe
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\05-UnicodeCharacter\obj\x86\Debug\05-UnicodeCharacter.pdb

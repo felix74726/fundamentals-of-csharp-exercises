@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\09-PrintTriangle\bin\Debug\09-PrintTriangle.exe
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\09-PrintTriangle\bin\Debug\09-PrintTriangle.pdb
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\09-PrintTriangle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\09-PrintTriangle\obj\x86\Debug\09-PrintTriangle.exe
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\09-PrintTriangle\obj\x86\Debug\09-PrintTriangle.pdb

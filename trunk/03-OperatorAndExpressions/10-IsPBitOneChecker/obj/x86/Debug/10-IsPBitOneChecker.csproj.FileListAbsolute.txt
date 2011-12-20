@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\10-IsPBitOneChecker\bin\Debug\10-IsPBitOneChecker.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\10-IsPBitOneChecker\bin\Debug\10-IsPBitOneChecker.pdb
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\10-IsPBitOneChecker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\10-IsPBitOneChecker\obj\x86\Debug\10-IsPBitOneChecker.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\10-IsPBitOneChecker\obj\x86\Debug\10-IsPBitOneChecker.pdb

@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\IntegerDevidedBy3And5\bin\Debug\IntegerDevidedBy3And5.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\IntegerDevidedBy3And5\bin\Debug\IntegerDevidedBy3And5.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\IntegerDevidedBy3And5\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\IntegerDevidedBy3And5\obj\x86\Debug\IntegerDevidedBy3And5.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\IntegerDevidedBy3And5\obj\x86\Debug\IntegerDevidedBy3And5.pdb

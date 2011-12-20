@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\PrintNumbers\bin\Debug\PrintNumbers.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\PrintNumbers\bin\Debug\PrintNumbers.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\PrintNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\PrintNumbers\obj\x86\Debug\PrintNumbers.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\PrintNumbers\obj\x86\Debug\PrintNumbers.pdb

@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\YourAgeAfter10Years\bin\Debug\YourAgeAfter10Years.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\YourAgeAfter10Years\bin\Debug\YourAgeAfter10Years.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\YourAgeAfter10Years\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\YourAgeAfter10Years\obj\x86\Debug\YourAgeAfter10Years.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\YourAgeAfter10Years\obj\x86\Debug\YourAgeAfter10Years.pdb

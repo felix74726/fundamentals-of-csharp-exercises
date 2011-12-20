@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\12-ModifyBit\bin\Debug\12-ModifyBit.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\12-ModifyBit\bin\Debug\12-ModifyBit.pdb
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\12-ModifyBit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\12-ModifyBit\obj\x86\Debug\12-ModifyBit.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\12-ModifyBit\obj\x86\Debug\12-ModifyBit.pdb

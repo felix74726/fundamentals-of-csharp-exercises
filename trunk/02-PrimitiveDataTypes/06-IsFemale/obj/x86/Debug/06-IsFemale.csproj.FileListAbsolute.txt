@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\06-IsFemale\bin\Debug\06-IsFemale.exe
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\06-IsFemale\bin\Debug\06-IsFemale.pdb
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\06-IsFemale\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\06-IsFemale\obj\x86\Debug\06-IsFemale.exe
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\06-IsFemale\obj\x86\Debug\06-IsFemale.pdb

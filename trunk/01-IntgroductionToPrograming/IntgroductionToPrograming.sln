@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloCSharp", "HelloCSharp\HelloCSharp.csproj", "{7D23BC0F-BE50-4E77-97A9-7D40187BA580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloMyName", "HelloMyName\HelloMyName.csproj", "{49BBC8A6-235B-413B-A3D2-E2DBFB6661D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintNumbers", "PrintNumbers\PrintNumbers.csproj", "{BE95FEE0-6EAD-4CCF-B5C0-032452738B23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintMyFullName", "PrintMyFullName\PrintMyFullName.csproj", "{8B6B662E-AFD7-4BA2-AD33-0766423FA417}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintCurrentDateAndTime", "PrintCurrentDateAndTime\PrintCurrentDateAndTime.csproj", "{0885103F-42A8-4686-9777-BC8FBD8A400A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateSquareOf12345", "12345\CalculateSquareOf12345.csproj", "{348E2BC2-CE01-4603-8376-D4532DA57553}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YourAgeAfter10Years", "YourAgeAfter10Years\YourAgeAfter10Years.csproj", "{D5D6548C-A14C-4C12-B577-9D0135857702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintFirst10Numbers", "PrintFirst10Numbers\PrintFirst10Numbers.csproj", "{212A1FDF-583A-4DA1-ADE3-038F99360A3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D23BC0F-BE50-4E77-97A9-7D40187BA580}.Debug|x86.ActiveCfg = Debug|x86
+		{7D23BC0F-BE50-4E77-97A9-7D40187BA580}.Debug|x86.Build.0 = Debug|x86
+		{7D23BC0F-BE50-4E77-97A9-7D40187BA580}.Release|x86.ActiveCfg = Release|x86
+		{7D23BC0F-BE50-4E77-97A9-7D40187BA580}.Release|x86.Build.0 = Release|x86
+		{49BBC8A6-235B-413B-A3D2-E2DBFB6661D6}.Debug|x86.ActiveCfg = Debug|x86
+		{49BBC8A6-235B-413B-A3D2-E2DBFB6661D6}.Debug|x86.Build.0 = Debug|x86
+		{49BBC8A6-235B-413B-A3D2-E2DBFB6661D6}.Release|x86.ActiveCfg = Release|x86
+		{49BBC8A6-235B-413B-A3D2-E2DBFB6661D6}.Release|x86.Build.0 = Release|x86
+		{BE95FEE0-6EAD-4CCF-B5C0-032452738B23}.Debug|x86.ActiveCfg = Debug|x86
+		{BE95FEE0-6EAD-4CCF-B5C0-032452738B23}.Debug|x86.Build.0 = Debug|x86
+		{BE95FEE0-6EAD-4CCF-B5C0-032452738B23}.Release|x86.ActiveCfg = Release|x86
+		{BE95FEE0-6EAD-4CCF-B5C0-032452738B23}.Release|x86.Build.0 = Release|x86
+		{8B6B662E-AFD7-4BA2-AD33-0766423FA417}.Debug|x86.ActiveCfg = Debug|x86
+		{8B6B662E-AFD7-4BA2-AD33-0766423FA417}.Debug|x86.Build.0 = Debug|x86
+		{8B6B662E-AFD7-4BA2-AD33-0766423FA417}.Release|x86.ActiveCfg = Release|x86
+		{8B6B662E-AFD7-4BA2-AD33-0766423FA417}.Release|x86.Build.0 = Release|x86
+		{0885103F-42A8-4686-9777-BC8FBD8A400A}.Debug|x86.ActiveCfg = Debug|x86
+		{0885103F-42A8-4686-9777-BC8FBD8A400A}.Debug|x86.Build.0 = Debug|x86
+		{0885103F-42A8-4686-9777-BC8FBD8A400A}.Release|x86.ActiveCfg = Release|x86
+		{0885103F-42A8-4686-9777-BC8FBD8A400A}.Release|x86.Build.0 = Release|x86
+		{348E2BC2-CE01-4603-8376-D4532DA57553}.Debug|x86.ActiveCfg = Debug|x86
+		{348E2BC2-CE01-4603-8376-D4532DA57553}.Debug|x86.Build.0 = Debug|x86
+		{348E2BC2-CE01-4603-8376-D4532DA57553}.Release|x86.ActiveCfg = Release|x86
+		{348E2BC2-CE01-4603-8376-D4532DA57553}.Release|x86.Build.0 = Release|x86
+		{D5D6548C-A14C-4C12-B577-9D0135857702}.Debug|x86.ActiveCfg = Debug|x86
+		{D5D6548C-A14C-4C12-B577-9D0135857702}.Debug|x86.Build.0 = Debug|x86
+		{D5D6548C-A14C-4C12-B577-9D0135857702}.Release|x86.ActiveCfg = Release|x86
+		{D5D6548C-A14C-4C12-B577-9D0135857702}.Release|x86.Build.0 = Release|x86
+		{212A1FDF-583A-4DA1-ADE3-038F99360A3E}.Debug|x86.ActiveCfg = Debug|x86
+		{212A1FDF-583A-4DA1-ADE3-038F99360A3E}.Debug|x86.Build.0 = Debug|x86
+		{212A1FDF-583A-4DA1-ADE3-038F99360A3E}.Release|x86.ActiveCfg = Release|x86
+		{212A1FDF-583A-4DA1-ADE3-038F99360A3E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

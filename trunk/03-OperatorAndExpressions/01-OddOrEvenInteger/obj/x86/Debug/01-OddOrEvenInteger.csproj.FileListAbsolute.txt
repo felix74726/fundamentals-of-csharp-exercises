@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\01-OddOrEvenInteger\bin\Debug\01-OddOrEvenInteger.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\01-OddOrEvenInteger\bin\Debug\01-OddOrEvenInteger.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\01-OddOrEvenInteger\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\01-OddOrEvenInteger\obj\x86\Debug\01-OddOrEvenInteger.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\01-OddOrEvenInteger\obj\x86\Debug\01-OddOrEvenInteger.pdb

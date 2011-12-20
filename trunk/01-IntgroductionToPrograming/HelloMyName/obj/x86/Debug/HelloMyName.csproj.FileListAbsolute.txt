@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\HelloMyName\bin\Debug\HelloMyName.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\HelloMyName\bin\Debug\HelloMyName.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\HelloMyName\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\HelloMyName\obj\x86\Debug\HelloMyName.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\HelloMyName\obj\x86\Debug\HelloMyName.pdb

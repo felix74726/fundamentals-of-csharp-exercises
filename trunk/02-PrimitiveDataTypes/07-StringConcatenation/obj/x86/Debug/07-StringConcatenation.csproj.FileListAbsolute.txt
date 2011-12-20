@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\07-StringConcatenation\bin\Debug\07-StringConcatenation.exe
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\07-StringConcatenation\bin\Debug\07-StringConcatenation.pdb
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\07-StringConcatenation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\07-StringConcatenation\obj\x86\Debug\07-StringConcatenation.exe
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\07-StringConcatenation\obj\x86\Debug\07-StringConcatenation.pdb

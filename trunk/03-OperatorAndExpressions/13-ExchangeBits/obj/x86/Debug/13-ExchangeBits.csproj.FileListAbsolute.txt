@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\13-ExchangeBits\bin\Debug\13-ExchangeBits.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\13-ExchangeBits\bin\Debug\13-ExchangeBits.pdb
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\13-ExchangeBits\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\13-ExchangeBits\obj\x86\Debug\13-ExchangeBits.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\13-ExchangeBits\obj\x86\Debug\13-ExchangeBits.pdb

@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\PrintFirst10Numbers\bin\Debug\PrintFirst10Numbers.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\PrintFirst10Numbers\bin\Debug\PrintFirst10Numbers.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\PrintFirst10Numbers\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\PrintFirst10Numbers\obj\x86\Debug\PrintFirst10Numbers.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\PrintFirst10Numbers\obj\x86\Debug\PrintFirst10Numbers.pdb

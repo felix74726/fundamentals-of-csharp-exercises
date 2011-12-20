@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\09-AreGivenPointsInACircle\bin\Debug\09-AreGivenPointsInACircle.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\09-AreGivenPointsInACircle\bin\Debug\09-AreGivenPointsInACircle.pdb
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\09-AreGivenPointsInACircle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\09-AreGivenPointsInACircle\obj\x86\Debug\09-AreGivenPointsInACircle.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\09-AreGivenPointsInACircle\obj\x86\Debug\09-AreGivenPointsInACircle.pdb
