@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\PrintMyFullName\bin\Debug\PrintMyFullName.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\PrintMyFullName\bin\Debug\PrintMyFullName.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\PrintMyFullName\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\PrintMyFullName\obj\x86\Debug\PrintMyFullName.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\PrintMyFullName\obj\x86\Debug\PrintMyFullName.pdb

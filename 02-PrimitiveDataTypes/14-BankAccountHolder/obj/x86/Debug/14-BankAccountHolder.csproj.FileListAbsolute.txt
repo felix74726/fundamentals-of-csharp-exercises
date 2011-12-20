@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\14-BankAccountHolder\bin\Debug\14-BankAccountHolder.exe
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\14-BankAccountHolder\bin\Debug\14-BankAccountHolder.pdb
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\14-BankAccountHolder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\14-BankAccountHolder\obj\x86\Debug\14-BankAccountHolder.exe
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\14-BankAccountHolder\obj\x86\Debug\14-BankAccountHolder.pdb

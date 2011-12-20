@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\03-ComparesFloatingPoint\bin\Debug\03-ComparesFloatingPoint.exe
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\03-ComparesFloatingPoint\bin\Debug\03-ComparesFloatingPoint.pdb
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\03-ComparesFloatingPoint\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\03-ComparesFloatingPoint\obj\x86\Debug\03-ComparesFloatingPoint.exe
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\03-ComparesFloatingPoint\obj\x86\Debug\03-ComparesFloatingPoint.pdb

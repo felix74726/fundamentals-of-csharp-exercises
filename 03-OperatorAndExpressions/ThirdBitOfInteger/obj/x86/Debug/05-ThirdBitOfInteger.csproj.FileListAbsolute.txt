@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\ThirdBitOfInteger\bin\Debug\ThirdBitOfInteger.exe
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\ThirdBitOfInteger\bin\Debug\ThirdBitOfInteger.pdb
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\ThirdBitOfInteger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\ThirdBitOfInteger\obj\x86\Debug\ThirdBitOfInteger.exe
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\ThirdBitOfInteger\obj\x86\Debug\ThirdBitOfInteger.pdb

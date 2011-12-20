@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\08-QuotedStrings\bin\Debug\08-QuotedStrings.exe
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\08-QuotedStrings\bin\Debug\08-QuotedStrings.pdb
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\08-QuotedStrings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\08-QuotedStrings\obj\x86\Debug\08-QuotedStrings.exe
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\08-QuotedStrings\obj\x86\Debug\08-QuotedStrings.pdb

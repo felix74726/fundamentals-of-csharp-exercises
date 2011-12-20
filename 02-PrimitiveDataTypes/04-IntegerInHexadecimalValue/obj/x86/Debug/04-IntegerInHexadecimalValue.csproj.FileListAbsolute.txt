@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\04-IntegerInHexadecimalValue\bin\Debug\04-IntegerInHexadecimalValue.exe
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\04-IntegerInHexadecimalValue\bin\Debug\04-IntegerInHexadecimalValue.pdb
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\04-IntegerInHexadecimalValue\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\04-IntegerInHexadecimalValue\obj\x86\Debug\04-IntegerInHexadecimalValue.exe
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\04-IntegerInHexadecimalValue\obj\x86\Debug\04-IntegerInHexadecimalValue.pdb

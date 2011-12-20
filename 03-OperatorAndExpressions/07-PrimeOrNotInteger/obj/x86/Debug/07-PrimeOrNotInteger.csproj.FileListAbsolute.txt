@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\07-PrimeOrNotInteger\bin\Debug\07-PrimeOrNotInteger.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\07-PrimeOrNotInteger\bin\Debug\07-PrimeOrNotInteger.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\07-PrimeOrNotInteger\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\07-PrimeOrNotInteger\obj\x86\Debug\07-PrimeOrNotInteger.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\07-PrimeOrNotInteger\obj\x86\Debug\07-PrimeOrNotInteger.pdb

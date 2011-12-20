@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\11-ExtratcBitFromInteger\bin\Debug\11-ExtratcBitFromInteger.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\11-ExtratcBitFromInteger\bin\Debug\11-ExtratcBitFromInteger.pdb
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\11-ExtratcBitFromInteger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\11-ExtratcBitFromInteger\obj\x86\Debug\11-ExtratcBitFromInteger.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\OperatorAndExpressions\11-ExtratcBitFromInteger\obj\x86\Debug\11-ExtratcBitFromInteger.pdb

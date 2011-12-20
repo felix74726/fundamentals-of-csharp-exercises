@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\13-AssignNullToIntegerAndDouble\bin\Debug\13-AssignNullToIntegerAndDouble.exe
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\13-AssignNullToIntegerAndDouble\bin\Debug\13-AssignNullToIntegerAndDouble.pdb
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\13-AssignNullToIntegerAndDouble\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\13-AssignNullToIntegerAndDouble\obj\x86\Debug\13-AssignNullToIntegerAndDouble.exe
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\13-AssignNullToIntegerAndDouble\obj\x86\Debug\13-AssignNullToIntegerAndDouble.pdb

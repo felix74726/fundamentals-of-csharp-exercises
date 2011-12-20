@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\04-CHeckTheThirdPosition\bin\Debug\04-CHeckTheThirdPosition.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\04-CHeckTheThirdPosition\bin\Debug\04-CHeckTheThirdPosition.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\04-CHeckTheThirdPosition\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\04-CHeckTheThirdPosition\obj\x86\Debug\04-CHeckTheThirdPosition.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\04-CHeckTheThirdPosition\obj\x86\Debug\04-CHeckTheThirdPosition.pdb

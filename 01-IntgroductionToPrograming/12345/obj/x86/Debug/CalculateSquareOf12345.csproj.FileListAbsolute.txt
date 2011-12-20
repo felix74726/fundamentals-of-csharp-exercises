@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\12345\bin\Debug\12345.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\12345\bin\Debug\12345.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\12345\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\12345\obj\x86\Debug\12345.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\12345\obj\x86\Debug\12345.pdb

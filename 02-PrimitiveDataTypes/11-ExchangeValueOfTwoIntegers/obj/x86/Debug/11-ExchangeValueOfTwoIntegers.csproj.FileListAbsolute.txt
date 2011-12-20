@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\11-ExchangeValueOfTwoIntegers\bin\Debug\11-ExchangeValueOfTwoIntegers.exe
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\11-ExchangeValueOfTwoIntegers\bin\Debug\11-ExchangeValueOfTwoIntegers.pdb
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\11-ExchangeValueOfTwoIntegers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\11-ExchangeValueOfTwoIntegers\obj\x86\Debug\11-ExchangeValueOfTwoIntegers.exe
+C:\Users\Tsvetomir\documents\visual studio 2010\Projects\PrimitiveDataTypes\11-ExchangeValueOfTwoIntegers\obj\x86\Debug\11-ExchangeValueOfTwoIntegers.pdb

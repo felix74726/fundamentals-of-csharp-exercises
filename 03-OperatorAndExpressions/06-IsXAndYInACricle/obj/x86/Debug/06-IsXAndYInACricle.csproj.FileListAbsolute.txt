@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\06-IsXAndYInACricle\bin\Debug\06-IsXAndYInACricle.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\06-IsXAndYInACricle\bin\Debug\06-IsXAndYInACricle.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\06-IsXAndYInACricle\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\06-IsXAndYInACricle\obj\x86\Debug\06-IsXAndYInACricle.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\06-IsXAndYInACricle\obj\x86\Debug\06-IsXAndYInACricle.pdb

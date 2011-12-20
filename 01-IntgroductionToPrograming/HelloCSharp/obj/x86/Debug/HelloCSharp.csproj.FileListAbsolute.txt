@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\HelloCSharp\bin\Debug\HelloCSharp.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\HelloCSharp\bin\Debug\HelloCSharp.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\HelloCSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\HelloCSharp\obj\x86\Debug\HelloCSharp.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\IntgroductionToPrograming\HelloCSharp\obj\x86\Debug\HelloCSharp.pdb

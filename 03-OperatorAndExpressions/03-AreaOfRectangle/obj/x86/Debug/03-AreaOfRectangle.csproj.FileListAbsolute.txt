@@ -1,0 +1,5 @@
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\03-AreaOfRectangle\bin\Debug\03-AreaOfRectangle.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\03-AreaOfRectangle\bin\Debug\03-AreaOfRectangle.pdb
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\03-AreaOfRectangle\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\03-AreaOfRectangle\obj\x86\Debug\03-AreaOfRectangle.exe
+c:\users\tsvetomir\documents\visual studio 2010\Projects\OperatorAndExpressions\03-AreaOfRectangle\obj\x86\Debug\03-AreaOfRectangle.pdb
