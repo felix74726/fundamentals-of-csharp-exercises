@@ -18,7 +18,28 @@ namespace _06_ElementsWithMaximalSum
                 array[index] = Int32.Parse(Console.ReadLine());
             }
 
+            int sum = 0;
+            int biggerSum = 0;
+            int[] maximalSumElements = new int[k];
+            int temp = k;
+            int j = 0;
+            int variable = 0;
+            for (int i = 0; i < n - k; i++)
+            {
+                for (j = variable; j < temp; j++)
+                {
+                    sum += array[j];
+                    if(sum > biggerSum)
+                    {
+                        biggerSum = sum;
+                    }
+                }
+                temp++;
+                variable++;
+                sum = 0;
+            }
 
+            Console.WriteLine(biggerSum);
         }
     }
 }

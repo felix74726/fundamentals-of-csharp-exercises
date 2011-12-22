@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\06-ElementsWithMaximalSum\bin\Debug\06-ElementsWithMaximalSum.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\06-ElementsWithMaximalSum\bin\Debug\06-ElementsWithMaximalSum.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\06-ElementsWithMaximalSum\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\06-ElementsWithMaximalSum\obj\x86\Debug\06-ElementsWithMaximalSum.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\06-ElementsWithMaximalSum\obj\x86\Debug\06-ElementsWithMaximalSum.pdb

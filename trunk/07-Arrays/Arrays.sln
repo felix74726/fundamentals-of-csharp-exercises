@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-MaximalIncreasingSequenc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-SortingArrayWithSelectionSort", "07-SortingArrayWithSelectionSort\07-SortingArrayWithSelectionSort.csproj", "{CC3B38FF-3135-4A8B-9281-5A7783AC3BF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-ElementsWithMaximalSum", "06-ElementsWithMaximalSum\06-ElementsWithMaximalSum.csproj", "{3E4DF6CF-DA2E-460C-84C5-F3F62F22BFFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -43,6 +45,10 @@ Global
 		{CC3B38FF-3135-4A8B-9281-5A7783AC3BF0}.Debug|x86.Build.0 = Debug|x86
 		{CC3B38FF-3135-4A8B-9281-5A7783AC3BF0}.Release|x86.ActiveCfg = Release|x86
 		{CC3B38FF-3135-4A8B-9281-5A7783AC3BF0}.Release|x86.Build.0 = Release|x86
+		{3E4DF6CF-DA2E-460C-84C5-F3F62F22BFFB}.Debug|x86.ActiveCfg = Debug|x86
+		{3E4DF6CF-DA2E-460C-84C5-F3F62F22BFFB}.Debug|x86.Build.0 = Debug|x86
+		{3E4DF6CF-DA2E-460C-84C5-F3F62F22BFFB}.Release|x86.ActiveCfg = Release|x86
+		{3E4DF6CF-DA2E-460C-84C5-F3F62F22BFFB}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
