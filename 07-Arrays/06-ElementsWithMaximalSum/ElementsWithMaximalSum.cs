@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace _06_ElementsWithMaximalSum
 {
@@ -21,25 +22,33 @@ namespace _06_ElementsWithMaximalSum
             int sum = 0;
             int biggerSum = 0;
             int[] maximalSumElements = new int[k];
+            List<int> list = new List<int>();
             int temp = k;
             int j = 0;
             int variable = 0;
-            for (int i = 0; i < n - k; i++)
+            for (int i = 0; i < n - k + 1; i++)
             {
                 for (j = variable; j < temp; j++)
                 {
+                    list.Add(array[j]);
                     sum += array[j];
                     if(sum > biggerSum)
                     {
                         biggerSum = sum;
+                        maximalSumElements = list.ToArray();
                     }
                 }
+                list.Clear();
                 temp++;
                 variable++;
                 sum = 0;
             }
 
-            Console.WriteLine(biggerSum);
+            Console.WriteLine("Elements with maximum sum: ");
+            foreach(int element in maximalSumElements)
+            {
+                Console.WriteLine(element);
+            }
         }
     }
 }

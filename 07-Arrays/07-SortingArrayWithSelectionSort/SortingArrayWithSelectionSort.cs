@@ -16,21 +16,25 @@ namespace _07_SortingArrayWithSelectionSort
                 array[index] = Int32.Parse(Console.ReadLine());
             }
 
+            int temp = 0;
             int minValue = 0;
             for (int i = 0; i < length - 1; i++)
             {
                 minValue = i;
                 for (int j = i + 1; j < length; j++)
                 {
-                    if (array[j] < minValue)
+                    if (array[j] < array[minValue])
                     {
-                        minValue = array[j];
+                        minValue = j;
                     }
                 }
 
-                array[i] ^= minValue;
-                minValue ^= array[i];
-                array[i] ^= minValue;
+                temp = array[i];
+                array[i] = array[minValue];
+                array[minValue] = temp;
+                //array[i] ^= array[minValue];
+                //array[minValue] ^= array[i];
+                //array[i] ^= array[minValue];
             }
 
             for (int i = 0; i < length; i++)
