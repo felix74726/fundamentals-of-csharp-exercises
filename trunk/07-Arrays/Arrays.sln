@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-SortingArrayWithSelectio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-ElementsWithMaximalSum", "06-ElementsWithMaximalSum\06-ElementsWithMaximalSum.csproj", "{3E4DF6CF-DA2E-460C-84C5-F3F62F22BFFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-FindSequenceOfMaximalSum", "08-FindSequenceOfMaximalSum\08-FindSequenceOfMaximalSum.csproj", "{CA1AC766-0953-4511-8DEF-A7797606A02A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-FindSequenceOfMaximalSum", "10-FindSequenceOfMaximalSum\10-FindSequenceOfMaximalSum.csproj", "{AE4758B9-0D5F-4845-879F-1B004AEE3D67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -49,6 +53,14 @@ Global
 		{3E4DF6CF-DA2E-460C-84C5-F3F62F22BFFB}.Debug|x86.Build.0 = Debug|x86
 		{3E4DF6CF-DA2E-460C-84C5-F3F62F22BFFB}.Release|x86.ActiveCfg = Release|x86
 		{3E4DF6CF-DA2E-460C-84C5-F3F62F22BFFB}.Release|x86.Build.0 = Release|x86
+		{CA1AC766-0953-4511-8DEF-A7797606A02A}.Debug|x86.ActiveCfg = Debug|x86
+		{CA1AC766-0953-4511-8DEF-A7797606A02A}.Debug|x86.Build.0 = Debug|x86
+		{CA1AC766-0953-4511-8DEF-A7797606A02A}.Release|x86.ActiveCfg = Release|x86
+		{CA1AC766-0953-4511-8DEF-A7797606A02A}.Release|x86.Build.0 = Release|x86
+		{AE4758B9-0D5F-4845-879F-1B004AEE3D67}.Debug|x86.ActiveCfg = Debug|x86
+		{AE4758B9-0D5F-4845-879F-1B004AEE3D67}.Debug|x86.Build.0 = Debug|x86
+		{AE4758B9-0D5F-4845-879F-1B004AEE3D67}.Release|x86.ActiveCfg = Release|x86
+		{AE4758B9-0D5F-4845-879F-1B004AEE3D67}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
