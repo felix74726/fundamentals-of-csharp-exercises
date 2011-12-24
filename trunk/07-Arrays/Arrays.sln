@@ -15,9 +15,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-SortingArrayWithSelectio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-ElementsWithMaximalSum", "06-ElementsWithMaximalSum\06-ElementsWithMaximalSum.csproj", "{3E4DF6CF-DA2E-460C-84C5-F3F62F22BFFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-FindSequenceOfMaximalSum", "10-FindSequenceOfMaximalSum\10-FindSequenceOfMaximalSum.csproj", "{AE4758B9-0D5F-4845-879F-1B004AEE3D67}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-FindSequenceOfMaximalSum", "08-FindSequenceOfMaximalSum\08-FindSequenceOfMaximalSum.csproj", "{E8A90A6D-3483-4D7E-BE60-40F0FCF6A276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-FindSequenceOfGivenSum", "10-FindSequenceOfGivenSum\10-FindSequenceOfGivenSum.csproj", "{E31527DC-BC92-4A5D-9FCF-C2E4A5734E79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-TheMostFrequentNumber", "09-TheMostFrequentNumber\09-TheMostFrequentNumber.csproj", "{F46CEEB1-5376-4960-95F1-7F37C76267B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,14 +55,18 @@ Global
 		{3E4DF6CF-DA2E-460C-84C5-F3F62F22BFFB}.Debug|x86.Build.0 = Debug|x86
 		{3E4DF6CF-DA2E-460C-84C5-F3F62F22BFFB}.Release|x86.ActiveCfg = Release|x86
 		{3E4DF6CF-DA2E-460C-84C5-F3F62F22BFFB}.Release|x86.Build.0 = Release|x86
-		{AE4758B9-0D5F-4845-879F-1B004AEE3D67}.Debug|x86.ActiveCfg = Debug|x86
-		{AE4758B9-0D5F-4845-879F-1B004AEE3D67}.Debug|x86.Build.0 = Debug|x86
-		{AE4758B9-0D5F-4845-879F-1B004AEE3D67}.Release|x86.ActiveCfg = Release|x86
-		{AE4758B9-0D5F-4845-879F-1B004AEE3D67}.Release|x86.Build.0 = Release|x86
 		{E8A90A6D-3483-4D7E-BE60-40F0FCF6A276}.Debug|x86.ActiveCfg = Debug|x86
 		{E8A90A6D-3483-4D7E-BE60-40F0FCF6A276}.Debug|x86.Build.0 = Debug|x86
 		{E8A90A6D-3483-4D7E-BE60-40F0FCF6A276}.Release|x86.ActiveCfg = Release|x86
 		{E8A90A6D-3483-4D7E-BE60-40F0FCF6A276}.Release|x86.Build.0 = Release|x86
+		{E31527DC-BC92-4A5D-9FCF-C2E4A5734E79}.Debug|x86.ActiveCfg = Debug|x86
+		{E31527DC-BC92-4A5D-9FCF-C2E4A5734E79}.Debug|x86.Build.0 = Debug|x86
+		{E31527DC-BC92-4A5D-9FCF-C2E4A5734E79}.Release|x86.ActiveCfg = Release|x86
+		{E31527DC-BC92-4A5D-9FCF-C2E4A5734E79}.Release|x86.Build.0 = Release|x86
+		{F46CEEB1-5376-4960-95F1-7F37C76267B6}.Debug|x86.ActiveCfg = Debug|x86
+		{F46CEEB1-5376-4960-95F1-7F37C76267B6}.Debug|x86.Build.0 = Debug|x86
+		{F46CEEB1-5376-4960-95F1-7F37C76267B6}.Release|x86.ActiveCfg = Release|x86
+		{F46CEEB1-5376-4960-95F1-7F37C76267B6}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
