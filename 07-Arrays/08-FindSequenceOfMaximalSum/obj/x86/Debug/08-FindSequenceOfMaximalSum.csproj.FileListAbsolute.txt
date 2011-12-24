@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\08-FindSequenceOfMaximalSum\bin\Debug\08-FindSequenceOfMaximalSum.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\08-FindSequenceOfMaximalSum\bin\Debug\08-FindSequenceOfMaximalSum.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\08-FindSequenceOfMaximalSum\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\08-FindSequenceOfMaximalSum\obj\x86\Debug\08-FindSequenceOfMaximalSum.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\08-FindSequenceOfMaximalSum\obj\x86\Debug\08-FindSequenceOfMaximalSum.pdb
