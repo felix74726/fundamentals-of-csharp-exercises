@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{E31527DC-BC92-4A5D-9FCF-C2E4A5734E79}</ProjectGuid>
+    <ProjectGuid>{F46CEEB1-5376-4960-95F1-7F37C76267B6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_10_FindSequenceOfGivenSum</RootNamespace>
-    <AssemblyName>10-FindSequenceOfGivenSum</AssemblyName>
+    <RootNamespace>_09_TheMostFrequentNumber</RootNamespace>
+    <AssemblyName>09-TheMostFrequentNumber</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FindSequenceOfGivenSum.cs" />
+    <Compile Include="TheMostFrequentNumbers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
