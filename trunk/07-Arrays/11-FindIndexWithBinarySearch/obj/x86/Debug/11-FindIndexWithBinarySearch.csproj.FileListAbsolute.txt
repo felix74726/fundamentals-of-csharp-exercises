@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\11-FindIndexWithBinarySearch\bin\Debug\11-FindIndexWithBinarySearch.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\11-FindIndexWithBinarySearch\bin\Debug\11-FindIndexWithBinarySearch.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\11-FindIndexWithBinarySearch\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\11-FindIndexWithBinarySearch\obj\x86\Debug\11-FindIndexWithBinarySearch.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\11-FindIndexWithBinarySearch\obj\x86\Debug\11-FindIndexWithBinarySearch.pdb
