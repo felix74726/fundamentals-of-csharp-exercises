@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\12-PrintIndexOfLetters\bin\Debug\12-PrintIndexOfLetters.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\12-PrintIndexOfLetters\bin\Debug\12-PrintIndexOfLetters.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\12-PrintIndexOfLetters\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\12-PrintIndexOfLetters\obj\x86\Debug\12-PrintIndexOfLetters.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\12-PrintIndexOfLetters\obj\x86\Debug\12-PrintIndexOfLetters.pdb

@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-TheMostFrequentNumber", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-FindIndexWithBinarySearch", "11-FindIndexWithBinarySearch\11-FindIndexWithBinarySearch.csproj", "{609756C0-AF31-4641-8017-312B8C15DD38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-PrintIndexOfLetters", "12-PrintIndexOfLetters\12-PrintIndexOfLetters.csproj", "{88EC4321-7044-4E66-8911-86C2E45ECE4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -73,6 +75,10 @@ Global
 		{609756C0-AF31-4641-8017-312B8C15DD38}.Debug|x86.Build.0 = Debug|x86
 		{609756C0-AF31-4641-8017-312B8C15DD38}.Release|x86.ActiveCfg = Release|x86
 		{609756C0-AF31-4641-8017-312B8C15DD38}.Release|x86.Build.0 = Release|x86
+		{88EC4321-7044-4E66-8911-86C2E45ECE4F}.Debug|x86.ActiveCfg = Debug|x86
+		{88EC4321-7044-4E66-8911-86C2E45ECE4F}.Debug|x86.Build.0 = Debug|x86
+		{88EC4321-7044-4E66-8911-86C2E45ECE4F}.Release|x86.ActiveCfg = Release|x86
+		{88EC4321-7044-4E66-8911-86C2E45ECE4F}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

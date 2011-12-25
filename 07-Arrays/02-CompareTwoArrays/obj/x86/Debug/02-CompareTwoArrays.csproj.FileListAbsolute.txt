@@ -5,3 +5,6 @@ D:\Telerik\Funfamentals Of C# Programing\домашни\07-Arrays\Arrays\02-Comp
 D:\Telerik\Funfamentals Of C# Programing\домашни\07-Arrays\Arrays\02-CompareTwoArrays\obj\x86\Debug\02-CompareTwoArrays.pdb
 D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\02-CompareTwoArrays\obj\x86\Debug\02-CompareTwoArrays.exe
 D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\02-CompareTwoArrays\obj\x86\Debug\02-CompareTwoArrays.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\02-CompareTwoArrays\bin\Debug\02-CompareTwoArrays.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\02-CompareTwoArrays\bin\Debug\02-CompareTwoArrays.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\02-CompareTwoArrays\obj\x86\Debug\ResolveAssemblyReference.cache
