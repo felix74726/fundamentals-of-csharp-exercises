@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{AE4758B9-0D5F-4845-879F-1B004AEE3D67}</ProjectGuid>
+    <ProjectGuid>{DA2FF08E-46EC-4EDD-9933-3ECD3CD9BEAB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_10_FindSequenceOfMaximalSum</RootNamespace>
-    <AssemblyName>10-FindSequenceOfMaximalSum</AssemblyName>
+    <RootNamespace>_13_MergeSort</RootNamespace>
+    <AssemblyName>13-MergeSort</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FindSequenceOfMaximalSum.cs" />
+    <Compile Include="MergeSort.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
