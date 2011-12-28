@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\10-FindSequenceOfGivenSum\bin\Debug\10-FindSequenceOfGivenSum.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\10-FindSequenceOfGivenSum\bin\Debug\10-FindSequenceOfGivenSum.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\10-FindSequenceOfGivenSum\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\10-FindSequenceOfGivenSum\obj\x86\Debug\10-FindSequenceOfGivenSum.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\10-FindSequenceOfGivenSum\obj\x86\Debug\10-FindSequenceOfGivenSum.pdb
