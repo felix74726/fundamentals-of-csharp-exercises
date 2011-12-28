@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\14-QuickSortForArrayOfStrings\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\14-QuickSortForArrayOfStrings\bin\Debug\14-QuickSortForArrayOfStrings.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\14-QuickSortForArrayOfStrings\bin\Debug\14-QuickSortForArrayOfStrings.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\14-QuickSortForArrayOfStrings\obj\x86\Debug\14-QuickSortForArrayOfStrings.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\14-QuickSortForArrayOfStrings\obj\x86\Debug\14-QuickSortForArrayOfStrings.pdb
