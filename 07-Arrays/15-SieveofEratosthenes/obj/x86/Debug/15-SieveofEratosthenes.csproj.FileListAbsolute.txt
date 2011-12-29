@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\15-SieveofEratosthenes\bin\Debug\15-SieveofEratosthenes.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\15-SieveofEratosthenes\bin\Debug\15-SieveofEratosthenes.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\15-SieveofEratosthenes\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\15-SieveofEratosthenes\obj\x86\Debug\15-SieveofEratosthenes.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\15-SieveofEratosthenes\obj\x86\Debug\15-SieveofEratosthenes.pdb
