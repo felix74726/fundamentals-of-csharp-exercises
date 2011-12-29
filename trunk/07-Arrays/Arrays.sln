@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-MergeSort", "13-MergeSor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-QuickSortForArrayOfStrings", "14-QuickSortForArrayOfStrings\14-QuickSortForArrayOfStrings.csproj", "{497DB8B7-95FC-44BA-A02C-5DA3A17625F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-SieveofEratosthenes", "15-SieveofEratosthenes\15-SieveofEratosthenes.csproj", "{91E0F1F8-2036-46FA-B35D-91345A692E0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -91,6 +93,10 @@ Global
 		{497DB8B7-95FC-44BA-A02C-5DA3A17625F9}.Debug|x86.Build.0 = Debug|x86
 		{497DB8B7-95FC-44BA-A02C-5DA3A17625F9}.Release|x86.ActiveCfg = Release|x86
 		{497DB8B7-95FC-44BA-A02C-5DA3A17625F9}.Release|x86.Build.0 = Release|x86
+		{91E0F1F8-2036-46FA-B35D-91345A692E0B}.Debug|x86.ActiveCfg = Debug|x86
+		{91E0F1F8-2036-46FA-B35D-91345A692E0B}.Debug|x86.Build.0 = Debug|x86
+		{91E0F1F8-2036-46FA-B35D-91345A692E0B}.Release|x86.ActiveCfg = Release|x86
+		{91E0F1F8-2036-46FA-B35D-91345A692E0B}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
