@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\17-SubsetOfKElemetdsWithSumS\bin\Debug\17-SubsetOfKElemetdsWithSumS.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\17-SubsetOfKElemetdsWithSumS\bin\Debug\17-SubsetOfKElemetdsWithSumS.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\17-SubsetOfKElemetdsWithSumS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\17-SubsetOfKElemetdsWithSumS\obj\x86\Debug\17-SubsetOfKElemetdsWithSumS.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\17-SubsetOfKElemetdsWithSumS\obj\x86\Debug\17-SubsetOfKElemetdsWithSumS.pdb
