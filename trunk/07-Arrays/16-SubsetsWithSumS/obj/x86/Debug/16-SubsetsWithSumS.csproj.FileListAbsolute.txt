@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\16-SubsetsWithSumS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\16-SubsetsWithSumS\bin\Debug\16-SubsetsWithSumS.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\16-SubsetsWithSumS\bin\Debug\16-SubsetsWithSumS.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\16-SubsetsWithSumS\obj\x86\Debug\16-SubsetsWithSumS.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\16-SubsetsWithSumS\obj\x86\Debug\16-SubsetsWithSumS.pdb

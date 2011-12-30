@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-QuickSortForArrayOfStrin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-SieveofEratosthenes", "15-SieveofEratosthenes\15-SieveofEratosthenes.csproj", "{91E0F1F8-2036-46FA-B35D-91345A692E0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-SubsetsWithSumS", "16-SubsetsWithSumS\16-SubsetsWithSumS.csproj", "{EED0DF9D-E239-449D-9FA5-60F3C5878C9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-SubsetOfKElemetdsWithSumS", "17-SubsetOfKElemetdsWithSumS\17-SubsetOfKElemetdsWithSumS.csproj", "{8868E32D-4342-47CC-B658-C04122FFB250}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -97,6 +101,14 @@ Global
 		{91E0F1F8-2036-46FA-B35D-91345A692E0B}.Debug|x86.Build.0 = Debug|x86
 		{91E0F1F8-2036-46FA-B35D-91345A692E0B}.Release|x86.ActiveCfg = Release|x86
 		{91E0F1F8-2036-46FA-B35D-91345A692E0B}.Release|x86.Build.0 = Release|x86
+		{EED0DF9D-E239-449D-9FA5-60F3C5878C9F}.Debug|x86.ActiveCfg = Debug|x86
+		{EED0DF9D-E239-449D-9FA5-60F3C5878C9F}.Debug|x86.Build.0 = Debug|x86
+		{EED0DF9D-E239-449D-9FA5-60F3C5878C9F}.Release|x86.ActiveCfg = Release|x86
+		{EED0DF9D-E239-449D-9FA5-60F3C5878C9F}.Release|x86.Build.0 = Release|x86
+		{8868E32D-4342-47CC-B658-C04122FFB250}.Debug|x86.ActiveCfg = Debug|x86
+		{8868E32D-4342-47CC-B658-C04122FFB250}.Debug|x86.Build.0 = Debug|x86
+		{8868E32D-4342-47CC-B658-C04122FFB250}.Release|x86.ActiveCfg = Release|x86
+		{8868E32D-4342-47CC-B658-C04122FFB250}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
