@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-FillAndPrintMatrix", "01-FillAndPrintMatrix\01-FillAndPrintMatrix.csproj", "{78E3581E-08E8-422D-9EAB-D216DD736B3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-MaximalSquare", "02-MaximalSquare\02-MaximalSquare.csproj", "{F31458FD-8FF6-4292-A8F0-4EC9AB6F9E09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{78E3581E-08E8-422D-9EAB-D216DD736B3B}.Debug|x86.Build.0 = Debug|x86
 		{78E3581E-08E8-422D-9EAB-D216DD736B3B}.Release|x86.ActiveCfg = Release|x86
 		{78E3581E-08E8-422D-9EAB-D216DD736B3B}.Release|x86.Build.0 = Release|x86
+		{F31458FD-8FF6-4292-A8F0-4EC9AB6F9E09}.Debug|x86.ActiveCfg = Debug|x86
+		{F31458FD-8FF6-4292-A8F0-4EC9AB6F9E09}.Debug|x86.Build.0 = Debug|x86
+		{F31458FD-8FF6-4292-A8F0-4EC9AB6F9E09}.Release|x86.ActiveCfg = Release|x86
+		{F31458FD-8FF6-4292-A8F0-4EC9AB6F9E09}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
