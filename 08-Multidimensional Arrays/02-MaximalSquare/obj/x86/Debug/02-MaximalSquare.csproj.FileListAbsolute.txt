@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\02-MaximalSquare\bin\Debug\02-MaximalSquare.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\02-MaximalSquare\bin\Debug\02-MaximalSquare.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\02-MaximalSquare\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\02-MaximalSquare\obj\x86\Debug\02-MaximalSquare.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\02-MaximalSquare\obj\x86\Debug\02-MaximalSquare.pdb
