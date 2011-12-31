@@ -46,7 +46,7 @@ namespace _01_FillAndPrintMatrix
                     matrix[row2, col] = value;
                     value++;
                 }
-                for (col = n -1 ; col >= 0; col--)
+                for (col = n - 1; col >= 0; col--)
                 {
                     matrix[col, n] = value;
                     value++;
@@ -60,7 +60,7 @@ namespace _01_FillAndPrintMatrix
                 temp++;
                 row2--;
                 length--;
-                if(n == 0)
+                if (n == 0)
                 {
                     break;
                 }
@@ -75,7 +75,7 @@ namespace _01_FillAndPrintMatrix
             {
                 for (int col = 0; col < matrix.GetLength(1); col++)
                 {
-                    matrix[col,row] = value;
+                    matrix[col, row] = value;
                     value++;
                 }
             }
@@ -113,7 +113,7 @@ namespace _01_FillAndPrintMatrix
             {
                 for (int col = 0; col < matrix.GetLength(1); col++)
                 {
-                    Console.Write("{0}\t", matrix[row,col]);
+                    Console.Write("{0}\t", matrix[row, col]);
                 }
                 Console.WriteLine();
                 Console.WriteLine();
