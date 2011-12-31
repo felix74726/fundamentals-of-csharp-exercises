@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-FillAndPrintMatrix", "01-FillAndPrintMatrix\01-FillAndPrintMatrix.csproj", "{DEE9110C-BB01-4729-A550-549DA2AB93DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-FillAndPrintMatrix", "01-FillAndPrintMatrix\01-FillAndPrintMatrix.csproj", "{78E3581E-08E8-422D-9EAB-D216DD736B3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DEE9110C-BB01-4729-A550-549DA2AB93DC}.Debug|x86.ActiveCfg = Debug|x86
-		{DEE9110C-BB01-4729-A550-549DA2AB93DC}.Debug|x86.Build.0 = Debug|x86
-		{DEE9110C-BB01-4729-A550-549DA2AB93DC}.Release|x86.ActiveCfg = Release|x86
-		{DEE9110C-BB01-4729-A550-549DA2AB93DC}.Release|x86.Build.0 = Release|x86
+		{78E3581E-08E8-422D-9EAB-D216DD736B3B}.Debug|x86.ActiveCfg = Debug|x86
+		{78E3581E-08E8-422D-9EAB-D216DD736B3B}.Debug|x86.Build.0 = Debug|x86
+		{78E3581E-08E8-422D-9EAB-D216DD736B3B}.Release|x86.ActiveCfg = Release|x86
+		{78E3581E-08E8-422D-9EAB-D216DD736B3B}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

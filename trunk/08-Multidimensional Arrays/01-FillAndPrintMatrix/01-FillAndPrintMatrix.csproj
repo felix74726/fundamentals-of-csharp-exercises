@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{DEE9110C-BB01-4729-A550-549DA2AB93DC}</ProjectGuid>
+    <ProjectGuid>{78E3581E-08E8-422D-9EAB-D216DD736B3B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_01_FillAndPrintMatrix</RootNamespace>
@@ -43,9 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\FillAndPrintMatrix.cs">
-      <Link>FillAndPrintMatrix.cs</Link>
-    </Compile>
+    <Compile Include="FillAndPrintMatrix.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
