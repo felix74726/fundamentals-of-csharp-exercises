@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\03-LongestSequenceOfEqualStrings\bin\Debug\03-LongestSequenceOfEqualStrings.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\03-LongestSequenceOfEqualStrings\bin\Debug\03-LongestSequenceOfEqualStrings.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\03-LongestSequenceOfEqualStrings\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\03-LongestSequenceOfEqualStrings\obj\x86\Debug\03-LongestSequenceOfEqualStrings.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\03-LongestSequenceOfEqualStrings\obj\x86\Debug\03-LongestSequenceOfEqualStrings.pdb

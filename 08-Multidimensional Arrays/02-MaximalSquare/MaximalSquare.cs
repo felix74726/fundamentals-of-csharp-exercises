@@ -10,8 +10,8 @@ namespace _02_MaximalSquare
             int n = Int32.Parse(Console.ReadLine());
             Console.Write("M = ");
             int m = Int32.Parse(Console.ReadLine());
-
             int[,] matrix = new int[n, m];
+
             FillMatrix(matrix);
             FindSquareWithBestSum(matrix);
         }
@@ -28,7 +28,8 @@ namespace _02_MaximalSquare
                     int sum = matrix[row,col] + matrix[row, col + 1] +
                         matrix[row + 1, col] + matrix[row + 1, col + 1] +
                             matrix[row, col + 2] + matrix[row + 1, col + 2] +
-                            matrix[row + 2, col + 2] + matrix[row + 2, col + 1] + matrix[row + 2, col];
+                            matrix[row + 2, col + 2] + matrix[row + 2, col + 1] + 
+                            matrix[row + 2, col];
                     if (sum > bestSum)
                     {
                         bestSum = sum;
