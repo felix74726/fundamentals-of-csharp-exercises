@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-SubsetOfKElemetdsWithSum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-SortingInIncreasingOrder", "18-SortingInIncreasingOrder\18-SortingInIncreasingOrder.csproj", "{D01FA184-4429-4039-82B3-0924054DDEDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-GenerateAndPrintAllPermutations", "19-GenerateAndPrintAllPermutations\19-GenerateAndPrintAllPermutations.csproj", "{CB9ACC7A-61AC-4CD7-AAC3-075570F7E55C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -115,6 +117,10 @@ Global
 		{D01FA184-4429-4039-82B3-0924054DDEDA}.Debug|x86.Build.0 = Debug|x86
 		{D01FA184-4429-4039-82B3-0924054DDEDA}.Release|x86.ActiveCfg = Release|x86
 		{D01FA184-4429-4039-82B3-0924054DDEDA}.Release|x86.Build.0 = Release|x86
+		{CB9ACC7A-61AC-4CD7-AAC3-075570F7E55C}.Debug|x86.ActiveCfg = Debug|x86
+		{CB9ACC7A-61AC-4CD7-AAC3-075570F7E55C}.Debug|x86.Build.0 = Debug|x86
+		{CB9ACC7A-61AC-4CD7-AAC3-075570F7E55C}.Release|x86.ActiveCfg = Release|x86
+		{CB9ACC7A-61AC-4CD7-AAC3-075570F7E55C}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
