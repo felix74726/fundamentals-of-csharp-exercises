@@ -1,36 +1,38 @@
 ﻿using System;
 using System.Linq;
 
-namespace _19_GenerateAndPrintAllPermutations
+namespace _20_GenerateAllVariationsOfK
 {
-    class GenerateAndPrintAllPermutationsProgram
+    class GenerateAllVariationsOfK
     {
         static void Main(string[] args)
         {
             Console.Write("N = ");
             int n = Int32.Parse(Console.ReadLine());
-            int[] array = new int[n];
+            Console.Write("K = ");
+            int k = Int32.Parse(Console.ReadLine());
 
+            int[] array = new int[n];
             for (int i = 0; i < array.Length; i++)
             {
                 array[i] = i + 1;
             }
 
-            GeneratePermutations(array, 0, array.Length - 1);
+            GenerateAllVariations(array, 0, array.Length - 1, k - 1);
         }
 
-        static void GeneratePermutations(int[] array, int index, int length)
+        static void GenerateAllVariations(int[] array, int index, int length, int k)
         {
             if (index == length)
             {
-                PrintAllPermutations(length, array);
+                PrintAllPermutations(k, array);
             }
             else
             {
                 for (int i = index; i <= length; i++)
                 {
                     Swap(ref array[index], ref array[i]);
-                    GeneratePermutations(array, index + 1, length);
+                    GenerateAllVariations(array, index + 1, length, k);
                     Swap(ref array[index], ref array[i]);
                 }
             }
