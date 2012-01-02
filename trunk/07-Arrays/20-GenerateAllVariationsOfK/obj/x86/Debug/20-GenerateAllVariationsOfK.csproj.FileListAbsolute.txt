@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\20-GenerateAllVariationsOfK\bin\Debug\20-GenerateAllVariationsOfK.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\20-GenerateAllVariationsOfK\bin\Debug\20-GenerateAllVariationsOfK.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\20-GenerateAllVariationsOfK\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\20-GenerateAllVariationsOfK\obj\x86\Debug\20-GenerateAllVariationsOfK.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\07-Arrays\20-GenerateAllVariationsOfK\obj\x86\Debug\20-GenerateAllVariationsOfK.pdb
