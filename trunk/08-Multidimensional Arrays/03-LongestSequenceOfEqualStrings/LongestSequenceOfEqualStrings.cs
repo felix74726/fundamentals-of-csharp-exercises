@@ -72,8 +72,6 @@ namespace _03_LongestSequenceOfEqualStrings
                         }
                     }
                 }
-
-               
             }
             for (int i = 0; i < biggerSequence - 1; i++)
             {

@@ -8,8 +8,62 @@ namespace _16_SubsetsWithSumS
     {
         static void Main(string[] args)
         {
-            int[] array = { 2, 1, 2, 4, 3, 5, 2, 6 };
-            int s = 14;
+            Console.Write("N = ");
+            int n = Int32.Parse(Console.ReadLine());
+            Console.WriteLine("S = ");
+            int s = Int32.Parse(Console.ReadLine());
+            int[] array = new int[n];
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.Write("array[{0}] = ", i);
+                array[i] = Int32.Parse(Console.ReadLine());
+            }
+
+            HasSubsetWithSumS(s, array);
+        }
+
+        static void HasSubsetWithSumS(int s, int[] array)
+        {
+            Array.Sort(array);
+            List<int> subsetElemets = new List<int>();
+
+            int sum = 0;
+            for (int i = 0; i < array.Length - 1; i++)
+            {
+                for (int j = i; j < array.Length; j++)
+                {
+                    sum += array[j];
+                    subsetElemets.Add(array[j]);
+                    if(sum == s)
+                    {
+                        PrintSubsetElements(s, subsetElemets);
+                        //sum = 0;
+                        break;
+                    }
+                    if(sum > s)
+                    {
+                        sum = 0;
+                        subsetElemets.Clear();
+                    }
+                }
+            }
+        }
+
+        private static void PrintSubsetElements(int s, List<int> subsetElements)
+        {
+            Console.Write("yes(");
+            for (int i = 0; i < subsetElements.Count; i++)
+            {
+                if (i == subsetElements.Count - 1)
+                {
+                    Console.WriteLine("{0})", subsetElements[i]);
+                }
+                else
+                {
+                    Console.Write("{0} + ", subsetElements[i]);
+                }
+            }
         }
     }
 }
