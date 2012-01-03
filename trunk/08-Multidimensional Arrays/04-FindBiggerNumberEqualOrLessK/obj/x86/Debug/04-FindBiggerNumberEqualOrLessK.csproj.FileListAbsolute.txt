@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\04-FindBiggerNumberEqualOrLessK\bin\Debug\04-FindBiggerNumberEqualOrLessK.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\04-FindBiggerNumberEqualOrLessK\bin\Debug\04-FindBiggerNumberEqualOrLessK.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\04-FindBiggerNumberEqualOrLessK\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\04-FindBiggerNumberEqualOrLessK\obj\x86\Debug\04-FindBiggerNumberEqualOrLessK.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\04-FindBiggerNumberEqualOrLessK\obj\x86\Debug\04-FindBiggerNumberEqualOrLessK.pdb
