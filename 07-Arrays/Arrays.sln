@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-GenerateAndPrintAllPermu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-GenerateAllVariationsOfK", "20-GenerateAllVariationsOfK\20-GenerateAllVariationsOfK.csproj", "{D7BD156B-CE44-4118-8BE3-42303BE820F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21-GenerateAllCombinationsOfK", "21-GenerateAllCombinationsOfK\21-GenerateAllCombinationsOfK.csproj", "{B089F98A-935B-456B-87D3-AB4B2BAF66F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -127,6 +129,10 @@ Global
 		{D7BD156B-CE44-4118-8BE3-42303BE820F0}.Debug|x86.Build.0 = Debug|x86
 		{D7BD156B-CE44-4118-8BE3-42303BE820F0}.Release|x86.ActiveCfg = Release|x86
 		{D7BD156B-CE44-4118-8BE3-42303BE820F0}.Release|x86.Build.0 = Release|x86
+		{B089F98A-935B-456B-87D3-AB4B2BAF66F6}.Debug|x86.ActiveCfg = Debug|x86
+		{B089F98A-935B-456B-87D3-AB4B2BAF66F6}.Debug|x86.Build.0 = Debug|x86
+		{B089F98A-935B-456B-87D3-AB4B2BAF66F6}.Release|x86.ActiveCfg = Release|x86
+		{B089F98A-935B-456B-87D3-AB4B2BAF66F6}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

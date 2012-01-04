@@ -5,58 +5,43 @@ namespace _20_GenerateAllVariationsOfK
 {
     class GenerateAllVariationsOfK
     {
-        static void Main(string[] args)
+        private static int numberOfLoops;
+        private static int numberOfIterations;
+        private static int[] loops;
+
+        static void Main()
         {
             Console.Write("N = ");
-            int n = Int32.Parse(Console.ReadLine());
+            numberOfLoops = Int32.Parse(Console.ReadLine());
+
             Console.Write("K = ");
-            int k = Int32.Parse(Console.ReadLine());
+            numberOfIterations = Int32.Parse(Console.ReadLine());
 
-            int[] array = new int[n];
-            for (int i = 0; i < array.Length; i++)
-            {
-                array[i] = i + 1;
-            }
+            loops = new int[numberOfLoops];
 
-            GenerateAllVariations(array, 0, array.Length - 1, k - 1);
+            NestedLoops(0);
         }
 
-        static void GenerateAllVariations(int[] array, int index, int length, int k)
+        private static void NestedLoops(int currentLoop)
         {
-            if (index == length)
+            if(currentLoop == numberOfLoops)
             {
-                PrintAllPermutations(k, array);
-            }
-            else
-            {
-                for (int i = index; i <= length; i++)
-                {
-                    Swap(ref array[index], ref array[i]);
-                    GenerateAllVariations(array, index + 1, length, k);
-                    Swap(ref array[index], ref array[i]);
-                }
-            }
-        }
-
-        private static void Swap(ref int a, ref int b)
-        {
-            if (a == b)
-            {
+                PrintLoops();
                 return;
             }
-            else
+
+            for (int i = 1; i <= numberOfIterations; i++)
             {
-                a ^= b;
-                b ^= a;
-                a ^= b;
+                loops[currentLoop] = i;
+                NestedLoops(currentLoop + 1);
             }
         }
 
-        private static void PrintAllPermutations(int length, int[] array)
+        private static void PrintLoops()
         {
-            for (int i = 0; i <= length; i++)
+            for (int i = 0; i < numberOfLoops; i++)
             {
-                Console.Write(array[i]);
+                Console.Write("{0} ", loops[i]);
             }
             Console.WriteLine();
         }
