@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-SortStringArray", "05-So
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-FindBiggerNumberEqualOrLessK", "04-FindBiggerNumberEqualOrLessK\04-FindBiggerNumberEqualOrLessK.csproj", "{4DC4F012-B6A3-4CF6-A1C7-30C42E67B3CB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-Matrix", "06-Matrix\06-Matrix.csproj", "{0BCA6965-1139-4575-B37A-061546975D57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -37,6 +39,10 @@ Global
 		{4DC4F012-B6A3-4CF6-A1C7-30C42E67B3CB}.Debug|x86.Build.0 = Debug|x86
 		{4DC4F012-B6A3-4CF6-A1C7-30C42E67B3CB}.Release|x86.ActiveCfg = Release|x86
 		{4DC4F012-B6A3-4CF6-A1C7-30C42E67B3CB}.Release|x86.Build.0 = Release|x86
+		{0BCA6965-1139-4575-B37A-061546975D57}.Debug|x86.ActiveCfg = Debug|x86
+		{0BCA6965-1139-4575-B37A-061546975D57}.Debug|x86.Build.0 = Debug|x86
+		{0BCA6965-1139-4575-B37A-061546975D57}.Release|x86.ActiveCfg = Release|x86
+		{0BCA6965-1139-4575-B37A-061546975D57}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

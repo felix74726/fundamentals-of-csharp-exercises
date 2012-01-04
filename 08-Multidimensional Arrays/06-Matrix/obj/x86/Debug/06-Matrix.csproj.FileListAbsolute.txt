@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\06-Matrix\bin\Debug\06-Matrix.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\06-Matrix\bin\Debug\06-Matrix.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\06-Matrix\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\06-Matrix\obj\x86\Debug\06-Matrix.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\06-Matrix\obj\x86\Debug\06-Matrix.pdb
