@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-FindBiggerNumberEqualOrL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-Matrix", "06-Matrix\06-Matrix.csproj", "{0BCA6965-1139-4575-B37A-061546975D57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-EqualNeightborElementsInMatrix", "07-EqualNeightborElementsInMatrix\07-EqualNeightborElementsInMatrix.csproj", "{FB8B1BFC-F9FB-480B-9ED3-6662A9267DEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -43,6 +45,10 @@ Global
 		{0BCA6965-1139-4575-B37A-061546975D57}.Debug|x86.Build.0 = Debug|x86
 		{0BCA6965-1139-4575-B37A-061546975D57}.Release|x86.ActiveCfg = Release|x86
 		{0BCA6965-1139-4575-B37A-061546975D57}.Release|x86.Build.0 = Release|x86
+		{FB8B1BFC-F9FB-480B-9ED3-6662A9267DEA}.Debug|x86.ActiveCfg = Debug|x86
+		{FB8B1BFC-F9FB-480B-9ED3-6662A9267DEA}.Debug|x86.Build.0 = Debug|x86
+		{FB8B1BFC-F9FB-480B-9ED3-6662A9267DEA}.Release|x86.ActiveCfg = Release|x86
+		{FB8B1BFC-F9FB-480B-9ED3-6662A9267DEA}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

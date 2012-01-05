@@ -10,16 +10,23 @@ namespace _01_FillAndPrintMatrix
             int n = Int32.Parse(Console.ReadLine());
             int[,] matrix = new int[n, n];
 
-            //Console.WriteLine("a)");
-            //Console.WriteLine();
-            //matrix = FillMatrixUpToDown(matrix);
-            //PrintMatrix(matrix);
+            Console.WriteLine("a)");
+            Console.WriteLine();
+            matrix = FillMatrixUpToDown(matrix);
+            PrintMatrix(matrix);
 
-            //Console.WriteLine("b)");
-            //Console.WriteLine();
-            //matrix = FillMatrixUpToDownAndUp(matrix);
-            //PrintMatrix(matrix);
+            Console.WriteLine("b)");
+            Console.WriteLine();
+            matrix = FillMatrixUpToDownAndUp(matrix);
+            PrintMatrix(matrix);
 
+            Console.WriteLine("c)");
+            Console.WriteLine();
+            matrix = FillMatrixDiagonal(matrix);
+            PrintMatrix(matrix);
+
+            Console.WriteLine("d)");
+            Console.WriteLine();
             matrix = FillMatrixSpiral(matrix);
             PrintMatrix(matrix);
 
@@ -27,42 +34,102 @@ namespace _01_FillAndPrintMatrix
 
         private static int[,] FillMatrixSpiral(int[,] matrix)
         {
-            int value = 1;
-            int n = matrix.GetLength(0);
-            int col = 0;
-            int temp = 0;
-            int row2 = n - 1;
-            int length = n;
-            for (int row = 0; row < Math.Sqrt(n); row++)
+            int i = matrix.GetLength(0);
+            int j = matrix.GetLength(0);
+            int maxRow = i - 1;
+            int minRow = 0;
+            int maxCol = j - 1;
+            int minCol = 0;
+            int l = minCol;
+            int k = minRow;
+            int num = 0;
+
+            while (num != i * j)
             {
-                for (col = temp; col < length; col++)
+                for (k = minRow; k <= maxRow; k++)
                 {
-                    matrix[col, row] = value;
-                    value++;
+                    num++;
+                    matrix[k, l] = num;
                 }
-                n--;
-                for (col = row + 1; col <= n; col++)
+                k = maxRow;
+                minCol++;
+
+                for (l = minCol; l <= maxCol; l++)
                 {
-                    matrix[row2, col] = value;
-                    value++;
+                    num++;
+                    matrix[k, l] = num;
                 }
-                for (col = n - 1; col >= 0; col--)
+                maxRow--;
+                l = maxCol;
+
+                for (k = maxRow; k >= minRow; k--)
                 {
-                    matrix[col, n] = value;
-                    value++;
+                    num++;
+                    matrix[k, l] = num;
                 }
-                n--;
-                for (col = n; col > temp; col--)
+                maxCol--;
+                k = minRow;
+  
+                for (l = maxCol; l >= minCol; l--)
                 {
-                    matrix[row, col] = value;
-                    value++;
+                    num++;
+                    matrix[k, l] = num;
                 }
-                temp++;
-                row2--;
-                length--;
-                if (n == 0)
+                minRow++;
+                l = minCol;
+            }
+            return matrix;
+        }
+
+        private static int[,] FillMatrixDiagonal(int[,] matrix)
+        {
+            int counter = 1;
+            int length = matrix.GetLength(0);
+            matrix[length - 1, 0] = counter;
+            matrix[0, length - 1] = length * length;
+            counter++;
+            for (int index = length - 2; index >= 0; index--)
+            {
+                for (int row = 0; row <= length - 1; row++)
                 {
-                    break;
+                    for (int col = length - 1; col >= 0; col--)
+                    {
+                        if (row == col)
+                        {
+                            if (row - index < 0)
+                            {
+                                continue;
+                            }
+                            else
+                            {
+                                matrix[col, row - index] = counter;
+                                counter++;
+                            }
+
+                        }
+                    }
+                }
+            }
+            counter = (length * length) - 1;
+            for (int index = length - 2; index > 0; index--)
+            {
+                for (int col = length - 1; col > 0; col--)
+                {
+                    for (int row = 0; row <= length - 1; row++)
+                    {
+                        if (row == col)
+                        {
+                            if (col - index < 0)
+                            {
+                                continue;
+                            }
+                            else
+                            {
+                                matrix[col - index, row] = counter;
+                                counter--;
+                            }
+                        }
+                    }
                 }
             }
             return matrix;

@@ -10,8 +10,8 @@ namespace _03_LongestSequenceOfEqualStrings
         {
             string[,] matrix =
             {
-                {"ha", "ha", "ha", "ha"},
-                {"ha", "ha", "hi", "xx"},
+                {"ha", "ha", "ha", "a"},
+                {"h", "ha", "hi", "xx"},
                 {"ha", "ho", "ha", "xx"}
             };
 
@@ -73,6 +73,7 @@ namespace _03_LongestSequenceOfEqualStrings
                     }
                 }
             }
+
             for (int i = 0; i < biggerSequence - 1; i++)
             {
                 Console.Write(elemets[0] + ", ");
