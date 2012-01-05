@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-ConvertDecimalToBinary", "01-ConvertDecimalToBinary\01-ConvertDecimalToBinary.csproj", "{A31BF3D3-420E-4734-A8FF-F980EDA11EF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-ConvertBinaryToDecimal", "02-ConvertBinaryToDecimal\02-ConvertBinaryToDecimal.csproj", "{4EA5323A-5B60-4747-9717-D53D4FB2066C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{A31BF3D3-420E-4734-A8FF-F980EDA11EF0}.Debug|x86.Build.0 = Debug|x86
 		{A31BF3D3-420E-4734-A8FF-F980EDA11EF0}.Release|x86.ActiveCfg = Release|x86
 		{A31BF3D3-420E-4734-A8FF-F980EDA11EF0}.Release|x86.Build.0 = Release|x86
+		{4EA5323A-5B60-4747-9717-D53D4FB2066C}.Debug|x86.ActiveCfg = Debug|x86
+		{4EA5323A-5B60-4747-9717-D53D4FB2066C}.Debug|x86.Build.0 = Debug|x86
+		{4EA5323A-5B60-4747-9717-D53D4FB2066C}.Release|x86.ActiveCfg = Release|x86
+		{4EA5323A-5B60-4747-9717-D53D4FB2066C}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
