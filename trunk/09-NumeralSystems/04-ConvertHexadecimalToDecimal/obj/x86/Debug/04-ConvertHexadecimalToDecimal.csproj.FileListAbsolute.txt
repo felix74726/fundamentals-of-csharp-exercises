@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\09-NumeralSystems\04-ConvertHexadecimalToDecimal\bin\Debug\04-ConvertHexadecimalToDecimal.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\09-NumeralSystems\04-ConvertHexadecimalToDecimal\bin\Debug\04-ConvertHexadecimalToDecimal.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\09-NumeralSystems\04-ConvertHexadecimalToDecimal\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\09-NumeralSystems\04-ConvertHexadecimalToDecimal\obj\x86\Debug\04-ConvertHexadecimalToDecimal.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\09-NumeralSystems\04-ConvertHexadecimalToDecimal\obj\x86\Debug\04-ConvertHexadecimalToDecimal.pdb
