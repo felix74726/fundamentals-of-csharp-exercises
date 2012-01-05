@@ -5,3 +5,6 @@ D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-e
 D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\09-NumeralSystems\NumeralSystems\01-ConvertDecimalToBinary\obj\x86\Debug\01-ConvertDecimalToBinary.pdb
 D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\09-NumeralSystems\01-ConvertDecimalToBinary\obj\x86\Debug\01-ConvertDecimalToBinary.exe
 D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\09-NumeralSystems\01-ConvertDecimalToBinary\obj\x86\Debug\01-ConvertDecimalToBinary.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\09-NumeralSystems\01-ConvertDecimalToBinary\bin\Debug\01-ConvertDecimalToBinary.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\09-NumeralSystems\01-ConvertDecimalToBinary\bin\Debug\01-ConvertDecimalToBinary.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\09-NumeralSystems\01-ConvertDecimalToBinary\obj\x86\Debug\ResolveAssemblyReference.cache
