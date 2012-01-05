@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\07-EqualNeightborElementsInMatrix\bin\Debug\07-EqualNeightborElementsInMatrix.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\07-EqualNeightborElementsInMatrix\bin\Debug\07-EqualNeightborElementsInMatrix.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\07-EqualNeightborElementsInMatrix\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\07-EqualNeightborElementsInMatrix\obj\x86\Debug\07-EqualNeightborElementsInMatrix.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\08-Multidimensional Arrays\07-EqualNeightborElementsInMatrix\obj\x86\Debug\07-EqualNeightborElementsInMatrix.pdb
