@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-ConvertHexadecimalToDeci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-ConvertDecimalToHexadecimal", "03-ConvertDecimalToHexadecimal\03-ConvertDecimalToHexadecimal.csproj", "{7695FA01-0132-4130-A75F-4557C2CB70AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-ConvertHexadecimalToBinaryDirectly", "05-ConvertHexadecimalToBinaryDirectly\05-ConvertHexadecimalToBinaryDirectly.csproj", "{F73C60C2-781A-49E2-8AEF-1C43B401FABD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,6 +33,10 @@ Global
 		{7695FA01-0132-4130-A75F-4557C2CB70AE}.Debug|x86.Build.0 = Debug|x86
 		{7695FA01-0132-4130-A75F-4557C2CB70AE}.Release|x86.ActiveCfg = Release|x86
 		{7695FA01-0132-4130-A75F-4557C2CB70AE}.Release|x86.Build.0 = Release|x86
+		{F73C60C2-781A-49E2-8AEF-1C43B401FABD}.Debug|x86.ActiveCfg = Debug|x86
+		{F73C60C2-781A-49E2-8AEF-1C43B401FABD}.Debug|x86.Build.0 = Debug|x86
+		{F73C60C2-781A-49E2-8AEF-1C43B401FABD}.Release|x86.ActiveCfg = Release|x86
+		{F73C60C2-781A-49E2-8AEF-1C43B401FABD}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
