@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\09-NumeralSystems\05-ConvertHexadecimalToBinaryDirectly\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\09-NumeralSystems\05-ConvertHexadecimalToBinaryDirectly\bin\Debug\05-ConvertHexadecimalToBinaryDirectly.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\09-NumeralSystems\05-ConvertHexadecimalToBinaryDirectly\bin\Debug\05-ConvertHexadecimalToBinaryDirectly.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\09-NumeralSystems\05-ConvertHexadecimalToBinaryDirectly\obj\x86\Debug\05-ConvertHexadecimalToBinaryDirectly.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\09-NumeralSystems\05-ConvertHexadecimalToBinaryDirectly\obj\x86\Debug\05-ConvertHexadecimalToBinaryDirectly.pdb
