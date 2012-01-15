@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\09-NumeralSystems\08-BinaryRepresentationOfShort\bin\Debug\08-BinaryRepresentationOfShort.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\09-NumeralSystems\08-BinaryRepresentationOfShort\bin\Debug\08-BinaryRepresentationOfShort.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\09-NumeralSystems\08-BinaryRepresentationOfShort\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\09-NumeralSystems\08-BinaryRepresentationOfShort\obj\x86\Debug\08-BinaryRepresentationOfShort.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\09-NumeralSystems\08-BinaryRepresentationOfShort\obj\x86\Debug\08-BinaryRepresentationOfShort.pdb

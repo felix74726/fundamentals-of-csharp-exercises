@@ -11,6 +11,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-ConvertDecimalToHexadeci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-ConvertHexadecimalToBinaryDirectly", "05-ConvertHexadecimalToBinaryDirectly\05-ConvertHexadecimalToBinaryDirectly.csproj", "{F73C60C2-781A-49E2-8AEF-1C43B401FABD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-ConvertBinaryToHexadecimalDirectly", "06-ConvertBinaryToHexadecimalDirectly\06-ConvertBinaryToHexadecimalDirectly.csproj", "{23BFEBD2-B2E8-4CD8-928A-F0E4ED90478F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-ConvertFromAndToAnyNumeralSystem", "07-ConvertFromAndToAnyNumeralSystem\07-ConvertFromAndToAnyNumeralSystem.csproj", "{04A567B4-D56F-4A10-8FDE-4E2FB6BCE19B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-BinaryRepresentationOfShort", "08-BinaryRepresentationOfShort\08-BinaryRepresentationOfShort.csproj", "{0540E093-6100-4A63-8F69-BC1FDB0681FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-InternalBinaryRepresentationOfFloat", "09-InternalBinaryRepresentationOfFloat\09-InternalBinaryRepresentationOfFloat.csproj", "{E16F6AE8-A98D-451D-BB3C-AAEF6411A4BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -37,6 +45,22 @@ Global
 		{F73C60C2-781A-49E2-8AEF-1C43B401FABD}.Debug|x86.Build.0 = Debug|x86
 		{F73C60C2-781A-49E2-8AEF-1C43B401FABD}.Release|x86.ActiveCfg = Release|x86
 		{F73C60C2-781A-49E2-8AEF-1C43B401FABD}.Release|x86.Build.0 = Release|x86
+		{23BFEBD2-B2E8-4CD8-928A-F0E4ED90478F}.Debug|x86.ActiveCfg = Debug|x86
+		{23BFEBD2-B2E8-4CD8-928A-F0E4ED90478F}.Debug|x86.Build.0 = Debug|x86
+		{23BFEBD2-B2E8-4CD8-928A-F0E4ED90478F}.Release|x86.ActiveCfg = Release|x86
+		{23BFEBD2-B2E8-4CD8-928A-F0E4ED90478F}.Release|x86.Build.0 = Release|x86
+		{04A567B4-D56F-4A10-8FDE-4E2FB6BCE19B}.Debug|x86.ActiveCfg = Debug|x86
+		{04A567B4-D56F-4A10-8FDE-4E2FB6BCE19B}.Debug|x86.Build.0 = Debug|x86
+		{04A567B4-D56F-4A10-8FDE-4E2FB6BCE19B}.Release|x86.ActiveCfg = Release|x86
+		{04A567B4-D56F-4A10-8FDE-4E2FB6BCE19B}.Release|x86.Build.0 = Release|x86
+		{0540E093-6100-4A63-8F69-BC1FDB0681FB}.Debug|x86.ActiveCfg = Debug|x86
+		{0540E093-6100-4A63-8F69-BC1FDB0681FB}.Debug|x86.Build.0 = Debug|x86
+		{0540E093-6100-4A63-8F69-BC1FDB0681FB}.Release|x86.ActiveCfg = Release|x86
+		{0540E093-6100-4A63-8F69-BC1FDB0681FB}.Release|x86.Build.0 = Release|x86
+		{E16F6AE8-A98D-451D-BB3C-AAEF6411A4BA}.Debug|x86.ActiveCfg = Debug|x86
+		{E16F6AE8-A98D-451D-BB3C-AAEF6411A4BA}.Debug|x86.Build.0 = Debug|x86
+		{E16F6AE8-A98D-451D-BB3C-AAEF6411A4BA}.Release|x86.ActiveCfg = Release|x86
+		{E16F6AE8-A98D-451D-BB3C-AAEF6411A4BA}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
