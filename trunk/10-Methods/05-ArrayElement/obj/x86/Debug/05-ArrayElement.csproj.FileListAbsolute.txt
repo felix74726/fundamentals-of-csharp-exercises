@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\10-Methods\05-ArrayElement\bin\Debug\05-ArrayElement.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\10-Methods\05-ArrayElement\bin\Debug\05-ArrayElement.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\10-Methods\05-ArrayElement\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\10-Methods\05-ArrayElement\obj\x86\Debug\05-ArrayElement.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\10-Methods\05-ArrayElement\obj\x86\Debug\05-ArrayElement.pdb

@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\10-Methods\01-Greeting\bin\Debug\01-Greeting.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\10-Methods\01-Greeting\bin\Debug\01-Greeting.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\10-Methods\01-Greeting\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\10-Methods\01-Greeting\obj\x86\Debug\01-Greeting.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\10-Methods\01-Greeting\obj\x86\Debug\01-Greeting.pdb

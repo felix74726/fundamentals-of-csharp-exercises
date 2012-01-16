@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\10-Methods\02-GetMaxFrom3Integers\bin\Debug\02-GetMaxFrom3Integers.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\10-Methods\02-GetMaxFrom3Integers\bin\Debug\02-GetMaxFrom3Integers.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\10-Methods\02-GetMaxFrom3Integers\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\10-Methods\02-GetMaxFrom3Integers\obj\x86\Debug\02-GetMaxFrom3Integers.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\10-Methods\02-GetMaxFrom3Integers\obj\x86\Debug\02-GetMaxFrom3Integers.pdb
