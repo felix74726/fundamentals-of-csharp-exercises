@@ -1,0 +1,5 @@
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\10-Methods\03-PrintLastDigitWithWord\bin\Debug\03-PrintLastDigitWithWord.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\10-Methods\03-PrintLastDigitWithWord\bin\Debug\03-PrintLastDigitWithWord.pdb
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\10-Methods\03-PrintLastDigitWithWord\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\10-Methods\03-PrintLastDigitWithWord\obj\x86\Debug\03-PrintLastDigitWithWord.exe
+D:\Telerik\Funfamentals Of C# Programing\домашни\fundamentals-of-csharp-exercises\10-Methods\03-PrintLastDigitWithWord\obj\x86\Debug\03-PrintLastDigitWithWord.pdb
