@@ -1,0 +1,1 @@
+Exercises from Fundamentals of CSharp course at Telerik Academy
